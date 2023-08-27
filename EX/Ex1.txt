@@ -1,0 +1,55 @@
+- Exploring HTML Basics
+
+1: HTML Documents
+
+All HTML documents must start with a document type declaration: <!DOCTYPE html>.
+The HTML document itself begins with <html> and ends with </html>.
+The visible part of the HTML document is between <body> and </body>.
+The <head> element is a container for metadata (data about data) and is placed between the <html> tag and the <body> tag.
+
+resource: https://www.w3schools.com/html/html_basic.asp
+
+---
+
+2: 1-  mastering html elements
+
+The basics: headings and paragraphs
+Most structured text consists of headings and paragraphs
+whether you are reading a story, a newspaper, a college textbook, a magazine, etc.
+
+read more: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#the_basics_headings_and_paragraphs
+
+2- stack overflow thread
+
+I was wondering what's the "best" or most common way to use semantic elements in HTML.
+I know what they are and what they do, but should I use them like that :
+
+resource: https://stackoverflow.com/questions/74479435/correct-usage-of-html-semantic-elements
+
+---
+3: HTML Accessibility and semantics
+
+Structural, semantic HTML is the key starting point toward good accessibility practices.
+
+resource: http://web-accessibility.carnegiemuseums.org/foundations/semantic/
+
+three semantic elements:
+1- <header>
+2- <nav>
+3- <main>
+
+resource: https://www.makeuseof.com/semantic-html-tags-to-make-website-more-accessible/
+
+tips on SO
+https://stackoverflow.com/questions/462767/what-are-the-best-practices-for-making-a-website-accessibility-friendly
+
+---
+5: Handling HTML Tables
+
+Styling tables
+resource: https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Styling_tables
+
+SO thread: Working with CSS to improve website appearance
+https://stackoverflow.com/questions/5273059/working-with-css-to-improve-website-appearance
+
+
