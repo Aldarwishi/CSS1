@@ -1,0 +1,44 @@
+Javascript Google & Stack Overflow Exercise
+1- Javascript Variables & Data Types
+begginner-friendly turorial
+resource: https://firmbee.com/variables-and-data-types-in-javascript
+three basic data types in javascript
+strings
+numbers
+blooeans
+SO thread
+resource: https://stackoverflow.com/questions/39095697/confusion-in-regards-to-javascript-data-type-and-types-of-objects
+
+---
+2- Mastering javascript Functions
+tutorial
+resource: https://morioh.com/a/c2a80773876b/what-is-js-control-flow-or-javascript-full-tutorial
+Example
+resource: https://www.w3schools.com/jsref/jsref_if.asp
+SO Thread
+resource: https://stackoverflow.com/questions/29970260/choosing-effective-function-names
+
+---
+3- Understanding Asynchronous Programming
+tutorial
+resource: https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff
+OS Thread
+resource: https://stackoverflow.com/questions/11488014/asynchronous-process-inside-a-javascript-for-loop
+
+---
+4- Handling Javascript Errors
+explanation
+resource: https://javascript.plainenglish.io/how-to-debug-javascript-top-techniques-for-efficient-coding-9354ff9ba902
+stratigies and tips for identifing and fixing errors
+resource: https://www.w3tweaks.com/js-error-handling-best-practices-strategies.html
+OS Thread
+resource: https://stackoverflow.com/questions/9329446/loop-for-each-over-an-array-in-javascript/9329476#9329476
+
+---
+5- manipulating the DOM with Javascript
+tutorial
+resource: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
+example
+https://www.w3schools.com/js/js_htmldom_html.asp
+OS Thread
+resource: https://stackoverflow.com/questions/3934826/what-do-people-mean-by-dom-manipulation-and-how-would-i-do-that
