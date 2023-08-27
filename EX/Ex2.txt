@@ -1,0 +1,50 @@
+1- CSS selectors and styling
+explanation
+- resource: https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/#:~:text=The%20CSS%20element%20selector%20selects,with%20the%20name%20you%20select.
+examples
+- resource: https://www.w3schools.com/css/css_selectors.asp
+css selector-related questions
+- resource:https://stackoverflow.com/questions/tagged/css-selectors?tab=Active
+
+---
+2- Understanding the CSS Box Model
+Explanation
+- resource: https://www.simplilearn.com/tutorials/css-tutorial/css-padding
+describtion
+What is the CSS Box Model?
+The CSS box model is a container that contains multiple properties including
+borders, margin, padding, and the content itself.
+It is used to create the design and layout of web pages.
+According to the CSS box model, the web browser supplies each element as a square prism.
+The following diagram illustrates the box model.
+- resource: https://www.simplilearn.com/tutorials/css-tutorial/css-box-model
+box-model issue
+resource: https://stackoverflow.com/questions/10879003/css-box-model-issue-box-sizing-100-height-border-inline-block
+
+---
+3- mastering CSS Flexbox
+turirials
+resource: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
+simple example of flexbox layout
+https://www.quackit.com/html/html_editors/scratchpad/?example=/css/flexbox/examples/flexbox_website_layout_1
+SO thread
+resource: https://stackoverflow.com/questions/47078450/issues-with-flex-box\
+
+---
+4- Creating Responsive Layouts
+turirial
+resource: https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+responsive webpage
+resource: https://www.w3schools.com/html/html_responsive.asp
+SO thread
+resource: https://stackoverflow.com/questions/8429058/responsive-web-design-tips-best-practices-and-dynamic-image-scaling-techniques
+
+---
+5- adding CSS animations
+tutorial
+resource: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions/Using_CSS_transitions
+CSS animation
+resource: https://www.w3schools.com/css/css3_animations.asp
+OS thread
+resource: https://stackoverflow.com/questions/12991164/maintaining-the-final-state-at-end-of-a-css-animation
+
